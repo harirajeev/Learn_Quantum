@@ -44,9 +44,13 @@ both in industry and in academia, not only as a reference, but also as a source 
 opportunities and advance the state of the art.
 
 1.portfolio optimization (Section 6.4.1), 
+
 2.hedging and swap netting (Section 6.4.2), 
+
 3.optimal arbitrage (Section 6.4.3), 
+
 4.credit scoring (Section 6.4.4), and 
+
 5.financial crash prediction (Section 6.4.5).
 
 Quantum advantage
